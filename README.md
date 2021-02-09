@@ -10,7 +10,7 @@ Queen Olivia is a Discord bot coded in JavaScript with
 [Commando](https://github.com/discordjs/Commando) command framework. With over
 500 commands, she is one of the most feature-rich bots out there. Formerly
 "QueenOliviaBot".
-
+And This bot owned and developed by [̶a̶u̶f̶]̶s̶a̶p̶p̶h̶i̶r̶e̶#3705 (node discord and python developer)
 ## Invite
 
 - [Home Server](https://dsc.gg/devlopsap)
