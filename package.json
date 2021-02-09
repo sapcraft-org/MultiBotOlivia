@@ -1,5 +1,5 @@
 {
-	"name": "xiao",
+	"name": "QueenOlivia",
 	"version": "129.0.2",
 	"description": "Your personal server companion.",
 	"main": "Xiao.js",
@@ -21,10 +21,8 @@
 		"discord-js",
 		"discord-js-commando"
 	],
-	"author": "dragonfire535 <danielbodendahl@gmail.com>",
+	"author": "[̶a̶u̶f̶]̶s̶a̶p̶p̶h̶i̶r̶e̶ <sapphirebluegaming@gmail.com>",
 	"license": "GPL-3.0",
-	"bugs": {
-		"url": "https://github.com/dragonfire535/xiao/issues"
 	},
 	"homepage": "https://github.com/dragonfire535/xiao#readme",
 	"engines": {
