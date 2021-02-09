@@ -2,7 +2,7 @@
 	"name": "QueenOlivia",
 	"version": "129.0.2",
 	"description": "Your personal server companion.",
-	"main": "olivia.js",
+	"main": "ashlyn.js",
 	"scripts": {
 		"test": "npm run lint",
 		"lint": "eslint . --ext .js --ext .json",
