@@ -1,7 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Queen Olivia" src="https://images-ext-2.discordapp.net/external/TR-j5U8VC4K-b47w3Y-MmbNAlYbBnW3SmOz3rnSdWic/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/806551959577427968/8ee5b44bb44a1fc0a7bf0e2ff974ced1.webp?width=453&height=453">  
 
 # Queen Olivia
-[![Build Status](https://github.com/dragonfire535/xiao/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/dragonfire535/xiao/actions)
+[![Build Status](https://github.com/dragonfire535/xiao/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/sapcraft-org/MultiBotOlivia/actions)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/sapphirechattopadhyay)
 [![Discord](https://discordapp.com/api/guilds/754965316400054293/embed.png)](https://dsc.gg/devlopsap)
 
