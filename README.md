@@ -14,7 +14,7 @@ Queen Olivia is a Discord bot coded in JavaScript with
 ## Invite
 
 - [Home Server](https://dsc.gg/devlopsap)
-- [Invite](https://discordapp.com/api/oauth2/authorize?client_id=806551959577427968&permissions=104721601&scope=bot
+- [Invite] (https://discordapp.com/api/oauth2/authorize?client_id=806551959577427968&permissions=104721601&scope=bot)
 
 ## Commands
 total commands are 550+ i am lazy to add those here some 
