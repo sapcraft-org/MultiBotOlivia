@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dragonfire535/xiao.git"
+		"url": "git+https://github.com/sapcraft-org/MultiBotOlivia.git"
 	},
 	"keywords": [
 		"bot",
